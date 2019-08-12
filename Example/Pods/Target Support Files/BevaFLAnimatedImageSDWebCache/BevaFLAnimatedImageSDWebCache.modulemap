@@ -1,0 +1,6 @@
+framework module BevaFLAnimatedImageSDWebCache {
+  umbrella header "BevaFLAnimatedImageSDWebCache-umbrella.h"
+
+  export *
+  module * { export * }
+}

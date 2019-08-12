@@ -1,0 +1,16 @@
+PODS:
+  - BevaFLAnimatedImageSDWebCache (0.1.0)
+
+DEPENDENCIES:
+  - BevaFLAnimatedImageSDWebCache (from `../`)
+
+EXTERNAL SOURCES:
+  BevaFLAnimatedImageSDWebCache:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BevaFLAnimatedImageSDWebCache: 2b7b2d461921503f0c2a8370ca913d090b399c44
+
+PODFILE CHECKSUM: b6276287fb9d118c2e461a62a0df87a75e489eca
+
+COCOAPODS: 1.6.1
